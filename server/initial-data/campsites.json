@@ -1,0 +1,73 @@
+[{
+	"_id": {
+		"$oid": "5f02803a258ff350affd3602"
+	},
+	"featured": false,
+	"name": "React Lake Campground",
+	"image": "images/react-lake.jpg",
+	"elevation": 1233,
+	"cost": 65,
+	"description": "Nestled in the foothills of the Chrome Mountains, this campground on the shores of the pristine React Lake is a favorite for fly fishers.",
+	"createdAt": {
+		"$date": "2020-07-06T01:36:58.187Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-06T01:36:58.187Z"
+	},
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5f02804e258ff350affd3603"
+	},
+	"featured": false,
+	"name": "Chrome River Campground",
+	"image": "images/chrome-river.jpg",
+	"elevation": 877,
+	"cost": 77,
+	"description": "Spend a few sunny days and starry nights beneath a canopy of old-growth firs at this enchanting spot by the Chrome River.",
+	"createdAt": {
+		"$date": "2020-07-06T01:37:18.367Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-06T01:37:18.367Z"
+	},
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5f02805d258ff350affd3604"
+	},
+	"featured": false,
+	"name": "Breadcrumb Trail Campground",
+	"image": "images/breadcrumb-trail.jpg",
+	"elevation": 2901,
+	"cost": 24,
+	"description": "Let NuCamp be your guide to this off-the-beaten-path, hike-in-only campground.",
+	"createdAt": {
+		"$date": "2020-07-06T01:37:33.290Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-06T01:37:33.290Z"
+	},
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5f028064258ff350affd3605"
+	},
+	"featured": true,
+	"name": "Redux Woods Campground",
+	"image": "images/redux-woods.jpg",
+	"elevation": 42,
+	"cost": 55,
+	"description": "You'll never want to leave this hidden gem, deep within the lush Redux Woods.",
+	"createdAt": {
+		"$date": "2020-07-06T01:37:40.968Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-06T01:37:40.968Z"
+	},
+	"__v": 0
+}]
+

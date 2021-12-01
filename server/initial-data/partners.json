@@ -1,0 +1,65 @@
+[{
+	"_id": {
+		"$oid": "5f0280b0258ff350affd3606"
+	},
+	"featured": false,
+	"name": "Bootstrap Outfitters",
+	"image": "images/bootstrap-logo.png",
+	"description": "Bootstrap Outfitters supplies you with the gear you need at prices you can't beat.",
+	"createdAt": {
+		"$date": "2020-07-06T01:38:56.690Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-06T01:38:56.690Z"
+	},
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5f0280bd258ff350affd3607"
+	},
+	"featured": false,
+	"name": "Git Out Expeditions",
+	"image": "images/git-logo.png",
+	"description": "Join Git Out Expeditions to explore new horizons with a group of other adventurers!",
+	"createdAt": {
+		"$date": "2020-07-06T01:39:09.571Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-06T01:39:09.571Z"
+	},
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5f0280c3258ff350affd3608"
+	},
+	"featured": false,
+	"name": "Mongo Fly Shop",
+	"image": "images/mongo-logo.png",
+	"description": "Need a new fishing pole, a tacklebox, or flies of all kinds? Stop by Mongo Fly Shop.",
+	"createdAt": {
+		"$date": "2020-07-06T01:39:15.483Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-06T01:39:15.483Z"
+	},
+	"__v": 0
+},
+{
+	"_id": {
+		"$oid": "5f0280ca258ff350affd3609"
+	},
+	"featured": true,
+	"name": "Node Outdoor Apparel",
+	"image": "images/node-logo.png",
+	"description": "From polar fleeces to swimsuits, hiking boots to waders, a visit to Node will be sure to get you covered.",
+	"createdAt": {
+		"$date": "2020-07-06T01:39:22.833Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-06T01:39:22.833Z"
+	},
+	"__v": 0
+}]
+

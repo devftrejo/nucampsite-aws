@@ -1,0 +1,21 @@
+[{
+	"_id": {
+		"$oid": "5f290502cced0fd34e1b68f9"
+	},
+	"campsite": {
+		"$oid": "5f02804e258ff350affd3603"
+	},
+	"rating": 5,
+	"text": "Amazing!!!",
+	"author": {
+		"$oid": "5f28fd73cb0093d00ca90ace"
+	},
+	"createdAt": {
+		"$date": "2020-08-04T06:49:38.794Z"
+	},
+	"updatedAt": {
+		"$date": "2020-08-04T06:49:38.794Z"
+	},
+	"__v": 0
+}]
+

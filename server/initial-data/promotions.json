@@ -1,0 +1,18 @@
+[{
+	"_id": {
+		"$oid": "5f0280ff258ff350affd360a"
+	},
+	"featured": true,
+	"name": "Mountain Adventure",
+	"image": "images/breadcrumb-trail.jpg",
+	"cost": 1299,
+	"description": "Book a 5-day mountain trek with a seasoned outdoor guide! Fly fishing equipment and lessons provided.",
+	"createdAt": {
+		"$date": "2020-07-06T01:40:15.270Z"
+	},
+	"updatedAt": {
+		"$date": "2020-07-06T01:40:15.270Z"
+	},
+	"__v": 0
+}]
+
